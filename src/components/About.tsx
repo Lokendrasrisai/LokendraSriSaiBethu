@@ -16,7 +16,7 @@ const About: React.FC = () => {
               <div className="relative w-full max-w-md mx-auto">
                 <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl bg-gradient-to-br from-cyan-500 to-purple-600 p-1">
                   <img
-                    src="src/components/088c5aaa-29a0-4a2b-a94a-db7f606ff0e6.JPG"
+                    src="088c5aaa-29a0-4a2b-a94a-db7f606ff0e6.JPG"
                     alt="Bethu Lokendra Srisai"
                     className="w-full h-full object-cover rounded-xl"
                   />
